@@ -15,13 +15,13 @@ References
 
 - Medium:
 
-- Hard: The sample code can be found in matrix_multiplication.c. The following is a demonstration of running the sample code.
+- Hard: Sample code can be found in matrix_multiplication.c. 
 
-> Enter rows and column for the first matrix: 2
+> Enter rows and columns for the first matrix: 2
 
 > 3
 
-> Enter rows and column for the second matrix: 3
+> Enter rows and columns for the second matrix: 3
 
 > 2
 
