@@ -15,49 +15,53 @@ References
 
 - Medium:
 
-- Hard: Sample code can be found in matrix_multiplication.c. 
+- Hard: Sample code can be found in matrix_multiplication.c. An example of a valid matrix multiplication.
 
-> Enter rows and columns for the first matrix: 2
-
-> 3
-
-> Enter rows and columns for the second matrix: 3
-
-> 2
-
+> Enter rows and columns for the first matrix: 2 3
+> 
+> Enter rows and columns for the second matrix: 3 2
+> 
 > Enter elements of the first matrix:
-
+> 
 > Enter a11: 2  
-
+> 
 > Enter a12: -3
-
+> 
 > Enter a13: 4
-
-> Enter a21: 53
-
+>
+> Enter a21: 6
+>
 > Enter a22: 3
-
+>
 > Enter a23: 5
-
+>
 > Enter elements of the second matrix:
-
+>
 > Enter a11: 3
-
+>
 > Enter a12: 3
-
+>
 > Enter a21: 5
-
+>
 > Enter a22: 0
-
+>
 > Enter a31: -3
-
+>
 > Enter a32: 4
-
+>
 > Output Matrix:
+>
+> -21 22
+>
+> 18 38
 
-> -21  22
+Once the dimensions of the input matrices do not match, an error message returns
 
-> 159  179
+> Enter rows and columns for the first matrix: 2 3
+>
+> Enter rows and columns for the second matrix: 4 2
+> 
+> Error! Enter rows and columns again.
 
 ## References
 
