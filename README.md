@@ -45,11 +45,11 @@ After design optimization, a summary of the results:
 > 
 >    Power:      0.899
 >
->      ESS:    176.126
+>    ESS:    176.126
 
 Plot of the first-stage test statistic $x_1$ versus overall sample size and the stage-two critical value.
 
-![curves](statistic_vs_sample.png)
+![](statistic_vs_sample.png)
 
 - Hard: Sample code can be found in matrix_multiplication.c. An example of a valid matrix multiplication.
 
