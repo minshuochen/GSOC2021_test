@@ -19,45 +19,45 @@ References
 
 > Enter rows and column for the first matrix: 2
 
-3
+> 3
 
-Enter rows and column for the second matrix: 3
+> Enter rows and column for the second matrix: 3
 
-2
+> 2
 
-Enter elements:
+> Enter elements of the first matrix:
 
-Enter a11: 2  
+> Enter a11: 2  
 
-Enter a12: -3
+> Enter a12: -3
 
-Enter a13: 4
+> Enter a13: 4
 
-Enter a21: 53
+> Enter a21: 53
 
-Enter a22: 3
+> Enter a22: 3
 
-Enter a23: 5
+> Enter a23: 5
 
-Enter elements:
+> Enter elements of the second matrix:
 
-Enter a11: 3
+> Enter a11: 3
 
-Enter a12: 3
+> Enter a12: 3
 
-Enter a21: 5
+> Enter a21: 5
 
-Enter a22: 0
+> Enter a22: 0
 
-Enter a31: -3
+> Enter a31: -3
 
-Enter a32: 4
+> Enter a32: 4
 
-Output Matrix:
+> Output Matrix:
 
--21  22
+> -21  22
 
-159  179
+> 159  179
 
 ## References
 
