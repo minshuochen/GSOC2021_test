@@ -3,8 +3,6 @@
 // function to get matrix elements entered by the user
 void getMatrixElements(int matrix[][10], int row, int column) {
 
-   printf("\nEnter elements: \n");
-
    for (int i = 0; i < row; ++i) {
       for (int j = 0; j < column; ++j) {
          printf("Enter a%d%d: ", i + 1, j + 1);
@@ -67,9 +65,11 @@ int main() {
    }
 
    // get elements of the first matrix
+   printf("\nEnter elements of the first matrix: \n");
    getMatrixElements(first, r1, c1);
 
    // get elements of the second matrix
+   printf("\nEnter elements of the second matrix: \n");
    getMatrixElements(second, r2, c2);
 
    // multiply two matrices.
