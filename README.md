@@ -15,7 +15,49 @@ References
 
 - Medium:
 
-- Hard: 
+- Hard: The sample code can be found in matrix_multiplication.c. The following is a demonstration of running the sample code.
+
+> Enter rows and column for the first matrix: 2
+
+3
+
+Enter rows and column for the second matrix: 3
+
+2
+
+Enter elements:
+
+Enter a11: 2  
+
+Enter a12: -3
+
+Enter a13: 4
+
+Enter a21: 53
+
+Enter a22: 3
+
+Enter a23: 5
+
+Enter elements:
+
+Enter a11: 3
+
+Enter a12: 3
+
+Enter a21: 5
+
+Enter a22: 0
+
+Enter a31: -3
+
+Enter a32: 4
+
+Output Matrix:
+
+-21  22
+
+159  179
 
 ## References
 
